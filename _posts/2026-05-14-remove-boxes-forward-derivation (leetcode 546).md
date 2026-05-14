@@ -1,3 +1,11 @@
+---
+layout: post
+title: "A Forward Derivation of Remove Boxes DP"
+date: 2026-05-14
+categories: algorithms
+tags: leetcode dynamic-programming interval-dp state-compression
+---
+
 # A Forward Derivation of Remove Boxes DP
 
 > LeetCode 546 — Remove Boxes
