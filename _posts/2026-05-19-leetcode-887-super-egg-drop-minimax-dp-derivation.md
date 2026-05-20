@@ -1,3 +1,10 @@
+---
+layout: post
+title: "LeetCode 887: Super Egg Drop — Minimax DP Derivation"
+date: 2026-05-19
+categories: leetcode dp
+tags: [leetcode, dynamic-programming, minimax, binary-search]
+---
 # LeetCode 887: Super Egg Drop — A Minimax DP Derivation
 
 ## Problem
