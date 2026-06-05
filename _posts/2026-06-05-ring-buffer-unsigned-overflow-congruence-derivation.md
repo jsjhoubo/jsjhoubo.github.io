@@ -106,8 +106,16 @@ $$t_2 \ominus h = d$$
 **Proof:**
 Under the algebraic framework of the ring $\mathbb{Z}_{2^k}$, executing an unsigned subtraction is identical to adding the two's complement of the subtrahend.
 
-**Step 2: Injecting Boundary Conditions**
-Substitute the current state variables $t_2 = 0$ and $h = 2^k - d$ into our shifted expression:
+**Step 1: Unsigned Subtraction Expansion**
+By definition of the ring arithmetic $\mathbb{Z}_{2^k}$, the operation is governed by the big modulus $2^k$:
+
+$$t_2 \ominus h \equiv t_2 - h \pmod{2^k}$$
+
+By adding a net-zero element $2^k \equiv 0 \pmod{2^k}$ into the system, we shift the calculation entirely into a positive-integer domain:
+
+$$t_2 \ominus h = (t_2 + 2^k - h) \pmod{2^k}$$
+
+Substituting the current state variables $t_2 = 0$ and $h = 2^k - d$ into our expression:
 
 $$= (0 + 2^k - (2^k - d)) \pmod{2^k}$$
 
@@ -115,7 +123,7 @@ $$= (2^k - 2^k + d) \pmod{2^k}$$
 
 $$= d \pmod{2^k}$$
 
-**Step 3: Boundary Constraint Elimination**
+**Step 2: Boundary Constraint Elimination**
 According to the physical safe-operating window of our ring buffer, the distance $d$ is strictly bound by the capacity $N$, meaning $0 < d < N < 2^k$. 
 
 Since $d$ falls strictly within the fundamental domain of $\mathbb{Z}_{2^k}$ (i.e., $d \in [0, 2^k - 1]$), the outer modular reduction becomes an identity mapping:
@@ -139,8 +147,8 @@ When $t < h$ occurs during an overflow boundary cross, a naive high-level calcul
 ### Bitstream Trace Example
 Let $k = 8$ ($2^k = 256$) and $N = 8$. Suppose the consumer is at $h = 250$ (`1111 1010`) and the producer wraps around to $t = 0$ (`0000 0000`). The physical absolute distance is $256 - 250 = 6$.
 
-1. **Two's Complement Generation**: The hardware inverse of $h$ (`1111 1010`) is computed: $\sim\text{`1111 1010`} + \text{`0000 0001`} \to \text{`0000 0101`} + \text{`0000 0001`} = \text{`0000 0110`}$ (Value: $6$).
-2. **Unsigned Addition**: The ALU executes the addition $t + (2^k - h)$: $\text{`0000 0000`} + \text{`0000 0110`} = \text{`0000 0110`}$ (Value: $6$).
-3. **Bitwise Masking**: The index mapping applies `AND (N - 1)` (i.e., `& 7` or `& 0000 0111`): $\text{`0000 0110`} \text{ AND } \text{`0000 0111`} = \text{`0000 0110`}$ (Slot Index: $6$).
+1. **Two's Complement Generation**: The hardware inverse of $h$ (`1111 1010`) is computed: $\sim$ `1111 1010` $+$ `0000 0001` $\to$ `0000 0101` $+$ `0000 0001` $=$ `0000 0110` (Value: $6$).
+2. **Unsigned Addition**: The ALU executes the addition $t + (2^k - h)$: `0000 0000` $+$ `0000 0110` $=$ `0000 0110` (Value: $6$).
+3. **Bitwise Masking**: The index mapping applies `AND (N - 1)` (i.e., `& 7` or `& 0000 0111`): `0000 0110` $\text{AND}$ `0000 0111` $=$ `0000 0110` (Slot Index: $6$).
 
 By exploiting the rigid cyclic topology of modular arithmetic, the hardware ALU naturally corrects the "temporal inversion" caused by register wrapping. This mathematical guarantee allows modern lock-free structures to maintain absolute deterministic thread synchronization with zero branch misprediction penalties.
