@@ -8,5 +8,6 @@ title: Technical Notes
 
 * 📘 **[The Geometric and Algebraic Synthesis of the Simplex Method (English Version)](/technotesPdf/the_grand_synthesis_treatise_en.pdf)**
 * 📙 **[单纯形法的几何与代数大一统 (中文版)](/technotesPdf/the_grand_synthesis_treatise_zh.pdf)**
-
+* 📘 [Budget Pacing: From Single-Advertiser Closed Form to Market Equilibrium (English Version)](/technotesPdf/pacing_theory_EN.pdf)
+* 📕 [预算 Pacing 的优化理论：从单广告主闭式解到市场均衡 (中文版)](/technotesPdf/pacing_theory_ZH.pdf)
 ---
