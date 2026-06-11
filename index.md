@@ -7,6 +7,6 @@ title: Technical Notes
 ### 📚 硬核技术报告 (PDF 在线阅读)
 
 * 📘 **[The Geometric and Algebraic Synthesis of the Simplex Method (English Version)](/technotesPdf/simplex_report_final_en.pdf)**
-* 📙 **[单纯形法的几何与代数大一统 (中文版)](/technotesPdf/simplex_method_grand_systhesis_zh.pdf)**
+* 📙 **[单纯形法的几何与代数大一统 (中文版)](/technotesPdf/simplex_method_grand_synthesis_zh.pdf)**
 
 ---
