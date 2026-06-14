@@ -13,6 +13,7 @@ title: Technical Notes
 * 🟦 **[The SPSC Lock-Free Ring Buffer: Memory Ordering, Cached-Index Optimization & Unsigned-Overflow Correctness (English Version)](/technotesPdf/SPSC_Report_EN.pdf)**
 * 🟥 **[SPSC 无锁环形缓冲区:内存序、缓存索引优化与无符号溢出正确性 (中文版)](/technotesPdf/SPSC_Report_ZH.pdf)**
 * 📘 **[Dimension, Measure, Metric: A Unified View from Cosmic Expansion to Computer Systems (English Version)](/technotesPdf/dimension_measure_metric_unified_en.pdf)**
-
 * 📘 **[量纲、测度、度规：从宇宙膨胀到计算机系统的统一视角（中文版）](/technotesPdf/dimension_measure_metric_unified_zh.pdf)**
+* 🟦 **[二分图增广路推导：从 +1 改进到交替可达集合（中文版）](/technotesPdf/bipartite_matching_derivation_detailed_zh.pdf)**
+* 🟦 **[Deriving Augmenting Paths in Bipartite Matching: From +1 Improvement to Alternating Reachability (English Version)](/technotesPdf/bipartite_matching_derivation_detailed_en.pdf)**
 ---
