@@ -18,4 +18,6 @@ title: Technical Notes
 * 🟦 **[Deriving Augmenting Paths in Bipartite Matching: From +1 Improvement to Alternating Reachability (English Version)](/technotesPdf/bipartite_matching_derivation_detailed_en.pdf)**
 * 🟦 **[最大流增广路径推导：从正向剩余容量到残量网络（中文版）](/technotesPdf/maxflow_augmentation_derivation_clean_zh.pdf)**
 * 🟦 **[Deriving Max Flow Augmentation: From Forward Residual Capacity to Residual Networks (English Version)](/technotesPdf/maxflow_augmentation_derivation_clean_en.pdf)**
+* 🟦 **[A Brief Talk on C++ UB: Math, Hardware, and Compiler Lies (English Version)](/technotesPdf/c++%20up,%20shallow%20opinion_EN.pdf)**
+* 🟥 **[浅聊 C++ UB：数学公理、底层硬件与编译器的“谎言” (中文版)](/technotesPdf/c++%20up,%20shallow%20opinion_ZH.pdf)**
 ---
