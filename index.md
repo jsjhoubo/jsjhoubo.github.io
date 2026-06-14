@@ -16,4 +16,6 @@ title: Technical Notes
 * 📘 **[量纲、测度、度规：从宇宙膨胀到计算机系统的统一视角（中文版）](/technotesPdf/dimension_measure_metric_unified_zh.pdf)**
 * 🟦 **[二分图增广路推导：从 +1 改进到交替可达集合（中文版）](/technotesPdf/bipartite_matching_derivation_detailed_zh.pdf)**
 * 🟦 **[Deriving Augmenting Paths in Bipartite Matching: From +1 Improvement to Alternating Reachability (English Version)](/technotesPdf/bipartite_matching_derivation_detailed_en.pdf)**
+* 🟦 **[最大流增广路径推导：从正向剩余容量到残量网络（中文版）](/technotesPdf/maxflow_augmentation_derivation_clean_zh.pdf)**
+* 🟦 **[Deriving Max Flow Augmentation: From Forward Residual Capacity to Residual Networks (English Version)](/technotesPdf/maxflow_augmentation_derivation_clean_en.pdf)**
 ---
