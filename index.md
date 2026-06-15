@@ -20,4 +20,6 @@ title: Technical Notes
 * 🟦 **[Deriving Max Flow Augmentation: From Forward Residual Capacity to Residual Networks (English Version)](/technotesPdf/maxflow_augmentation_derivation_clean_en.pdf)**
 * 🟦 **[A Brief Talk on C++ UB: Math, Hardware, and Compiler Lies (English Version)](/technotesPdf/c++%20up,%20shallow%20opinion_EN.pdf)**
 * 🟥 **[浅聊 C++ UB：数学公理、底层硬件与编译器的“谎言” (中文版)](/technotesPdf/c++%20up,%20shallow%20opinion_ZH.pdf)**
+* 🟦 **[Competing Poisson Flows: A Derivation Journey — Order-Flow Buy/Sell Races from First Principles (English Version)](/technotesPdf/p1_journey_en.pdf)**
+* 🟥 **[竞争 Poisson 流:一份思维历程 — 订单流买卖比赛的第一性原理推导 (中文版)](/technotesPdf/p1_journey_zh.pdf)**
 ---
