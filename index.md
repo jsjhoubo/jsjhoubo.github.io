@@ -22,4 +22,6 @@ title: Technical Notes
 * 🟥 **[浅聊 C++ UB：数学公理、底层硬件与编译器的“谎言” (中文版)](/technotesPdf/c++%20up,%20shallow%20opinion_ZH.pdf)**
 * 🟦 **[Competing Poisson Flows: A Derivation Journey — Order-Flow Buy/Sell Races from First Principles (English Version)](/technotesPdf/p1_journey_en.pdf)**
 * 🟥 **[竞争 Poisson 流:一份思维历程 — 订单流买卖比赛的第一性原理推导 (中文版)](/technotesPdf/p1_journey_zh.pdf)**
+* 🟦 **[Deriving Tarjan's SCC Algorithm From Scratch: low-link, Proof & the dfn-vs-low Fork (English Version)](/technotesPdf/Tarjan_SCC_derivation_EN.pdf)**
+* 🟥 **[从零正着推出 Tarjan 强连通分量算法:low-link 的发现式推导与正确性证明（中文版）](/technotesPdf/Tarjan_SCC_derivation_ZH.pdf)**
 ---
