@@ -24,4 +24,6 @@ title: Technical Notes
 * 🟥 **[竞争 Poisson 流:一份思维历程 — 订单流买卖比赛的第一性原理推导 (中文版)](/technotesPdf/p1_journey_zh.pdf)**
 * 🟦 **[Deriving Tarjan's SCC Algorithm From Scratch: low-link, Proof & the dfn-vs-low Fork (English Version)](/technotesPdf/Tarjan_SCC_derivation_EN.pdf)**
 * 🟥 **[从零正着推出 Tarjan 强连通分量算法:low-link 的发现式推导与正确性证明（中文版）](/technotesPdf/Tarjan_SCC_derivation_ZH.pdf)**
+* 🟦 **[The Seqlock (English Version)](/technotesPdf/Seqlock_Report_EN.pdf)**
+* 🟥 **[Seqlock 序列锁 (中文版)](/technotesPdf/Seqlock_Report_ZH.pdf)**
 ---
