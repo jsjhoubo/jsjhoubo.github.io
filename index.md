@@ -26,4 +26,6 @@ title: Technical Notes
 * 🟥 **[从零正着推出 Tarjan 强连通分量算法:low-link 的发现式推导与正确性证明（中文版）](/technotesPdf/Tarjan_SCC_derivation_ZH.pdf)**
 * 🟦 **[The Seqlock (English Version)](/technotesPdf/Seqlock_Report_EN.pdf)**
 * 🟥 **[Seqlock 序列锁 (中文版)](/technotesPdf/Seqlock_Report_ZH.pdf)**
+* 🟦 **[The Bounded MPMC Queue (English Version)](/technotesPdf/MPMC_Report_EN.pdf)**
+* 🟥 **[有界 MPMC 队列 (中文版)](/technotesPdf/MPMC_Report_ZH.pdf)**
 ---
