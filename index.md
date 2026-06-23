@@ -28,4 +28,6 @@ title: Technical Notes
 * 🟥 **[Seqlock 序列锁 (中文版)](/technotesPdf/Seqlock_Report_ZH.pdf)**
 * 🟦 **[The Bounded MPMC Queue (English Version)](/technotesPdf/MPMC_Report_EN.pdf)**
 * 🟥 **[有界 MPMC 队列 (中文版)](/technotesPdf/MPMC_Report_ZH.pdf)**
+* 🟦 **[The Expected Wait for HHH — Part 1: The Full Back-and-Forth (English Version)](/technotesPdf/hhh_part1_en.pdf)**
+* 🟥 **[等待 HHH 的期望步数 —— 第一部分:完整的往返 (中文版)](/technotesPdf/hhh_part1_zh.pdf)**
 ---
