@@ -4,7 +4,7 @@ title: Technical Notes
 ---
 欢迎来到我的技术博客！这里记录了我在机器学习、底层系统优化以及运筹学算法上的学习和总结
 
-### 📚 硬核技术报告 (PDF 在线阅读)
+### 📚 技术报告 (PDF 在线阅读)
 
 * 📘 **[The Geometric and Algebraic Synthesis of the Simplex Method (English Version)](/technotesPdf/the_grand_synthesis_treatise_en.pdf)**
 * 📙 **[单纯形法的几何与代数大一统 (中文版)](/technotesPdf/the_grand_synthesis_treatise_zh.pdf)**
