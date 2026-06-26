@@ -2,7 +2,7 @@
 layout: home
 title: Technical Notes
 ---
-欢迎来到我的技术博客！这里记录了我在机器学习、底层系统优化以及运筹学算法上的硬核推导与总结。
+欢迎来到我的技术博客！这里记录了我在机器学习、底层系统优化以及运筹学算法上的学习和总结
 
 ### 📚 硬核技术报告 (PDF 在线阅读)
 
@@ -30,4 +30,6 @@ title: Technical Notes
 * 🟥 **[有界 MPMC 队列 (中文版)](/technotesPdf/MPMC_Report_ZH.pdf)**
 * 🟦 **[The Expected Wait for HHH — Part 1: The Full Back-and-Forth (English Version)](/technotesPdf/hhh_part1_en.pdf)**
 * 🟥 **[等待 HHH 的期望步数 —— 第一部分:完整的往返 (中文版)](/technotesPdf/hhh_part1_zh.pdf)**
+* 🟦 **[Penney's Game and Conway's Formula · Part II — A Full Derivation and Crash Log (English Version)](/technotesPdf/p2_textbook_en.pdf)**
+* 🟥 **[Penney's Game 与 Conway 公式 · 第二部分 —— 一份完整的推导与翻车历程 (中文版)](/technotesPdf/p2_textbook_zh.pdf)**
 ---
