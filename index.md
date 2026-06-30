@@ -33,6 +33,5 @@ title: Technical Notes
 * 🟦 **[Penney's Game and Conway's Formula · Part II — A Full Derivation and Crash Log (English Version)](/technotesPdf/p2_textbook_en.pdf)**
 * 🟥 **[Penney's Game 与 Conway 公式 · 第二部分 —— 一份完整的推导与翻车历程 (中文版)](/technotesPdf/p2_textbook_zh.pdf)**
 * 🟦  **[Maximum Average Subarray of Length ≥ L: A Binary-Search Reasoning Trace (English Version)](/technotesPdf/max_avg_subarray_trace_EN.pdf)**
-* 🟥  **[长度 ≥ L 的最大平均子数组：二分判定的完整试错推理轨迹 (中文版)](/technotesPdf/max_avg_subarray_trace.pdf‎
-)**
+* 🟥  **[长度 ≥ L 的最大平均子数组：二分判定的完整试错推理轨迹 (中文版)](/technotesPdf/max_avg_subarray_trace.pdf‎)**
 ---
