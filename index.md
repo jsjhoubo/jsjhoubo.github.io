@@ -38,5 +38,9 @@ title: Technical Notes
 * 📕 **[物理溯源 01：牛顿如何建立“力”的概念（中文版）](/technotesPdf/Physics_Origins_01_Newtonian_Mechanics_Concept_Building_V2_Illustrated_ZH.pdf)**
 * 🔵 **[Physics Origins 02: From Work and Voltage to Fields, Waves, and Quanta (English Version)](/technotesPdf/Physics_Origins_02_Fields_Waves_Quanta_Unified_V5_Logical_EN.pdf)**
 * 🔴 **[物理溯源 02：从功与电压到场、波和量子（中文版）](/technotesPdf/Physics_Origins_02_Fields_Waves_Quanta_Unified_V5_Logical_ZH.pdf)**
+* 🔵 **[A Unified Integral for Wave Optics: Interference and Diffraction as Two Faces of One Equation (English Version)](/technotesPdf/Wave_Optics_Unified_Integral_V1_note_EN.pdf)**
+* 🔴 **[波动光学的一个统一积分：干涉与衍射作为同一方程的两副面孔 (中文版)](/technotesPdf/Wave_Optics_Unified_Integral_V1_note_ZH.pdf)**
+* 🔵 **[Physics Origins 03: From Kinetic Energy Integration to Probability Amplitude Squared – An Intuitive Chain (English Version)](/technotesPdf/Physics_Origins_03_Probability_Amplitude_Squared_Intuitive_Chain_EN.pdf)**
+* 🔴 **[物理溯源 03: 从动能积分到概率振幅平方的直觉链条 (中文版)](/technotesPdf/Physics_Origins_03_Probability_Amplitude_Squared_Intuitive_Chain_ZH.pdf)**
 ---
 
