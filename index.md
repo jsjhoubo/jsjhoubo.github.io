@@ -44,5 +44,7 @@ title: Technical Notes
 * 🔴 **[物理溯源 03: 从动能积分到概率振幅平方的直觉链条 (中文版)](/technotesPdf/Physics_Origins_03_Probability_Amplitude_Squared_Intuitive_Chain_ZH.pdf)**
 * 🔵 **[Continuous Colonel Blotto: A First-Principles Derivation of the Value n/2, Nash Equilibrium, and Optimal-Strategy Construction (English Version)](/technotesPdf/Continuous_Colonel_Blotto_Value_Nash_Construction_V1_note_EN.pdf)**
 * 🔴 **[连续型 Colonel Blotto：从第一性原理推导博弈值 n/2、纳什均衡与最优策略构造（中文版）](/technotesPdf/Continuous_Colonel_Blotto_Value_Nash_Construction_V1_note_ZH.pdf)**
+* 🟦 **[A/B Test Hypothesis Testing and Statistical Power: A First-Principles Derivation (English Version)](/technotesPdf/ABTest_Power_Analysis_V1_note_EN.pdf)**
+* 🟥 **[A/B Test 假设检验与统计功效：从第一性原理推导（中文版）](/technotesPdf/ABTest_Power_Analysis_V1_note_ZH.pdf)**
 ---
 
