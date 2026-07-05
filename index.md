@@ -46,5 +46,7 @@ title: Technical Notes
 * 🔴 **[连续型 Colonel Blotto：从第一性原理推导博弈值 n/2、纳什均衡与最优策略构造（中文版）](/technotesPdf/Continuous_Colonel_Blotto_Value_Nash_Construction_V1_note_ZH.pdf)**
 * 🟦 **[A/B Test Hypothesis Testing and Statistical Power: A First-Principles Derivation (English Version)](/technotesPdf/ABTest_Power_Analysis_V1_note_EN.pdf)**
 * 🟥 **[A/B Test 假设检验与统计功效：从第一性原理推导（中文版）](/technotesPdf/ABTest_Power_Analysis_V1_note_ZH.pdf)**
+* 🟦 **[MMoE and GradNorm: A First-Principles Derivation of Multi-Task Learning](https://jsjhoubo.github.io/technotesPdf/MMoE_GradNorm_V1_note_EN.pdf)**
+* 🟥 **[MMoE 与 GradNorm：从第一性原理推导多任务学习](https://jsjhoubo.github.io/technotesPdf/MMoE_GradNorm_V1_note_ZH.pdf)**
 ---
 
