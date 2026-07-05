@@ -2,7 +2,7 @@
 layout: post
 title: "LeetCode 1000: Interval DP with Modulo Feasibility"
 date: 2026-05-20
-categories: [LeetCode, Dynamic Programming, Algorithms]
+categories: [LeetCode, dynamic-programming, Algorithms]
 tags: [leetcode, interval-dp, dynamic-programming, modulo, proof, derivation]
 ---
 # Technique Notes: Interval DP with Modulo Feasibility — LeetCode 1000
