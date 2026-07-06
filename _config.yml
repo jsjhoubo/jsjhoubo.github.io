@@ -1,3 +1,5 @@
 title: Robert's Technical Notes
 description: Algorithms, ML, Systems
 theme: minima
+exclude:
+  - technotesPdf/*.md
