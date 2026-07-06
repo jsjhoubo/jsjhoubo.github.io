@@ -1,7 +1,7 @@
 ---
 title: "LeetCode 913 Cat and Mouse - Complete Derivation via Reverse BFS"
 date: 2026-06-08
-categories: [Algorithm, Game Theory, LeetCode]
+categories: [algorithm, game-theory, leetcode]
 tags: [reverse-bfs, game-tree, dynamic-programming, leetcode-hard]
 ---
 

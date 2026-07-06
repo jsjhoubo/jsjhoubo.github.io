@@ -2,7 +2,7 @@
 layout: post
 title: "Ring Buffer Unsigned Overflow & Distance Invariance: A Formal Congruence Proof"
 date: 2026-06-05 17:30:00 +0800
-categories: [Data Structure, Architecture, Math]
+categories: [data-structure, architecture, math]
 tags: [ring-buffer, lock-free, modern-algebra, congruence-theory, hardware-overflow]
 math: true
 ---
