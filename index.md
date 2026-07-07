@@ -2,7 +2,7 @@
 layout: home
 title: Technical Notes
 ---
-欢迎来到我的技术博客！这里记录了我在机器学习、底层系统优化以及运筹学算法上的学习和总结
+欢迎来到我的技术博客！这里记录了我在数学物理计算机上的的学习和总结
 
 ### 📚 技术报告 (PDF 在线阅读)
 
@@ -50,5 +50,7 @@ title: Technical Notes
 * 🟥 **[MMoE 与 GradNorm：从第一性原理推导多任务学习](/technotesPdf/MMoE_GradNorm_V1_note_ZH.pdf)**
 * 🟦 [Variance, LLN & the Central Limit Theorem via de Moivre's Original Path (Part-1)](/technotesPdf/clt-demoivre-part1-en.pdf)
 * 🟥 [方差、大数定律与中心极限定理：棣莫弗原始路径的第一性原理推导（Part-1）](/technotesPdf/clt-demoivre-part1-zh.pdf)
+* 🟦 [Variance, LLN & CLT (Part-2): Chebyshev's Inequality](/technotesPdf/chebyshev-part2-en.pdf)
+* 🟥 [方差、大数定律与中心极限定理（Part-2）：切比雪夫不等式](/technotesPdf/chebyshev-part2-zh.pdf)
 ---
 
