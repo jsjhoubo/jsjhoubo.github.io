@@ -48,5 +48,7 @@ title: Technical Notes
 * 🟥 **[A/B Test 假设检验与统计功效：从第一性原理推导（中文版）](/technotesPdf/ABTest_Power_Analysis_V1_note_ZH.pdf)**
 * 🟦 **[MMoE and GradNorm: A First-Principles Derivation of Multi-Task Learning](/technotesPdf/MMoE_GradNorm_V1_note_EN.pdf)**
 * 🟥 **[MMoE 与 GradNorm：从第一性原理推导多任务学习](/technotesPdf/MMoE_GradNorm_V1_note_ZH.pdf)**
+* 🟦 [Variance, LLN & the Central Limit Theorem via de Moivre's Original Path (Part-1)](/technotesPdf/clt-demoivre-part1-en.pdf)
+* 🟥 [方差、大数定律与中心极限定理：棣莫弗原始路径的第一性原理推导（Part-1）](/technotesPdf/clt-demoivre-part1-zh.pdf)
 ---
 
