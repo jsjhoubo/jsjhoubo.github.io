@@ -52,7 +52,7 @@ title: Technical Notes
 * 🟥 [方差、大数定律与中心极限定理：棣莫弗原始路径的第一性原理推导（Part-1）](/technotesPdf/clt-demoivre-part1-zh.pdf)
 * 🟦 [Variance, LLN & CLT (Part-2): Chebyshev's Inequality](/technotesPdf/chebyshev-part2-en.pdf)
 * 🟥 [方差、大数定律与中心极限定理（Part-2）：切比雪夫不等式](/technotesPdf/chebyshev-part2-zh.pdf)
-* 🔵 **[The Mathematical Essence of Attention: A Self-Dialogue from QK^T to First Principles (English Version)](/technotesPdf/Attention_Mathematical_Essence_V1_note_EN.pdf)**
-* 🔴 **[Attention 的数学本质：从 QK^T 到第一性原理的自问自答（中文版）](/technotesPdf/Attention_Mathematical_Essence_V1_note_ZH.pdf)**
+* 🔵 **[The Mathematical Essence of Attention: A Self-Dialogue from QK^T to First Principles (English Version)](/technotesPdf/attention_essence_en.pdf)**
+* 🔴 **[Attention 的数学本质：从 QK^T 到第一性原理的自问自答（中文版）](/technotesPdf/attention_essence_zh.pdf)**
 ---
 
