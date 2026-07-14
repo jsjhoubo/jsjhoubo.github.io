@@ -56,5 +56,7 @@ title: Technical Notes
 * 🔴 **[Attention 的数学本质：从 QK^T 到第一性原理的自问自答（中文版）](/technotesPdf/attention_essence_zh.pdf)**
 * 🔵 [AI Agent Memory Infrastructure: A System Design Manuscript (RAM Side and Periphery)](/technotesPdf/AgentMemory_SystemDesign_V1_note_EN.pdf)
 * 🔴 [AI Agent Memory Infrastructure 系统设计手稿（RAM 端与外围·面试深度版）](/technotesPdf/AgentMemory_SystemDesign_V1_note_ZH.pdf)
+* 🟦 **[Safe Memory Reclamation: Hazard Pointers and RCU (English Version)](/technotesPdf/SMR_Report_EN.pdf)**
+* 🟥 **[安全内存回收:Hazard Pointer 与 RCU (中文版)](/technotesPdf/SMR_Report_ZH.pdf)**
 ---
 
