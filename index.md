@@ -48,17 +48,19 @@ title: Technical Notes
 * 🟥 **[A/B Test 假设检验与统计功效：从第一性原理推导（中文版）](/technotesPdf/ABTest_Power_Analysis_V1_note_ZH.pdf)**
 * 🟦 **[MMoE and GradNorm: A First-Principles Derivation of Multi-Task Learning](/technotesPdf/MMoE_GradNorm_V1_note_EN.pdf)**
 * 🟥 **[MMoE 与 GradNorm：从第一性原理推导多任务学习](/technotesPdf/MMoE_GradNorm_V1_note_ZH.pdf)**
-* 🟦 [Variance, LLN & the Central Limit Theorem via de Moivre's Original Path (Part-1)](/technotesPdf/clt-demoivre-part1-en.pdf)
-* 🟥 [方差、大数定律与中心极限定理：棣莫弗原始路径的第一性原理推导（Part-1）](/technotesPdf/clt-demoivre-part1-zh.pdf)
-* 🟦 [Variance, LLN & CLT (Part-2): Chebyshev's Inequality](/technotesPdf/chebyshev-part2-en.pdf)
-* 🟥 [方差、大数定律与中心极限定理（Part-2）：切比雪夫不等式](/technotesPdf/chebyshev-part2-zh.pdf)
+* 🟦 **[Variance, LLN & the Central Limit Theorem via de Moivre's Original Path (Part-1)](/technotesPdf/clt-demoivre-part1-en.pdf)
+* 🟥 **[方差、大数定律与中心极限定理：棣莫弗原始路径的第一性原理推导（Part-1）](/technotesPdf/clt-demoivre-part1-zh.pdf)
+* 🟦 **[Variance, LLN & CLT (Part-2): Chebyshev's Inequality](/technotesPdf/chebyshev-part2-en.pdf)
+* 🟥 **[方差、大数定律与中心极限定理（Part-2）：切比雪夫不等式](/technotesPdf/chebyshev-part2-zh.pdf)
 * 🔵 **[The Mathematical Essence of Attention: A Self-Dialogue from QK^T to First Principles (English Version)](/technotesPdf/attention_essence_en.pdf)**
 * 🔴 **[Attention 的数学本质：从 QK^T 到第一性原理的自问自答（中文版）](/technotesPdf/attention_essence_zh.pdf)**
-* 🔵 [AI Agent Memory Infrastructure: A System Design Manuscript (RAM Side and Periphery)](/technotesPdf/AgentMemory_SystemDesign_V1_note_EN.pdf)
-* 🔴 [AI Agent Memory Infrastructure 系统设计手稿（RAM 端与外围·面试深度版）](/technotesPdf/AgentMemory_SystemDesign_V1_note_ZH.pdf)
+* 🔵 **[AI Agent Memory Infrastructure: A System Design Manuscript (RAM Side and Periphery)](/technotesPdf/AgentMemory_SystemDesign_V1_note_EN.pdf)
+* 🔴 **[AI Agent Memory Infrastructure 系统设计手稿（RAM 端与外围·面试深度版）](/technotesPdf/AgentMemory_SystemDesign_V1_note_ZH.pdf)
 * 🟦 **[Safe Memory Reclamation: Hazard Pointers and RCU (English Version)](/technotesPdf/SMR_Report_EN.pdf)**
 * 🟥 **[安全内存回收:Hazard Pointer 与 RCU (中文版)](/technotesPdf/SMR_Report_ZH.pdf)**
 * 🟦 **[Mechanical Sympathy: How to Make Correct Code an Order of Magnitude Faster (English Version)](/technotesPdf/MechSym_Report_EN.pdf)**
 * 🟥 **[机制内存学 (中文版)](/technotesPdf/MechSym_Report_ZH.pdf)**
+* 🟦 **[Zero-Overhead Abstraction (English Version)](/technotesPdf/ZeroOverhead_Report_EN.pdf)**
+* 🟥 **[零开销抽象 (中文版)](/technotesPdf/ZeroOverhead_Report_ZH.pdf)**
 ---
 
