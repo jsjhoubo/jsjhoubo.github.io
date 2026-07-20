@@ -58,5 +58,7 @@ title: Technical Notes
 * 🔴 [AI Agent Memory Infrastructure 系统设计手稿（RAM 端与外围·面试深度版）](/technotesPdf/AgentMemory_SystemDesign_V1_note_ZH.pdf)
 * 🟦 **[Safe Memory Reclamation: Hazard Pointers and RCU (English Version)](/technotesPdf/SMR_Report_EN.pdf)**
 * 🟥 **[安全内存回收:Hazard Pointer 与 RCU (中文版)](/technotesPdf/SMR_Report_ZH.pdf)**
+* 🟦 **[Mechanical Sympathy: How to Make Correct Code an Order of Magnitude Faster (English Version)](/technotesPdf/MechSym_Report_EN.pdf)**
+* 🟥 **[机制内存学 (中文版)](/technotesPdf/MechSym_Report_ZH.pdf)**
 ---
 
