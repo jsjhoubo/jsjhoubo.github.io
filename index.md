@@ -8,8 +8,8 @@ title: Technical Notes
 
 * 📘 **[The Geometric and Algebraic Synthesis of the Simplex Method (English Version)](/technotesPdf/the_grand_synthesis_treatise_en.pdf)**
 * 📙 **[单纯形法的几何与代数大一统 (中文版)](/technotesPdf/the_grand_synthesis_treatise_zh.pdf)**
-* 📘 [Budget Pacing: From Single-Advertiser Closed Form to Market Equilibrium (English Version)](/technotesPdf/pacing_theory_EN.pdf)
-* 📕 [预算 Pacing 的优化理论：从单广告主闭式解到市场均衡 (中文版)](/technotesPdf/pacing_theory_ZH.pdf)
+* 📘 **[Budget Pacing: From Single-Advertiser Closed Form to Market Equilibrium (English Version)](/technotesPdf/pacing_theory_EN.pdf)**
+* 📕 **[预算 Pacing 的优化理论：从单广告主闭式解到市场均衡 (中文版)](/technotesPdf/pacing_theory_ZH.pdf)**
 * 🟦 **[The SPSC Lock-Free Ring Buffer: Memory Ordering, Cached-Index Optimization & Unsigned-Overflow Correctness (English Version)](/technotesPdf/SPSC_Report_EN.pdf)**
 * 🟥 **[SPSC 无锁环形缓冲区:内存序、缓存索引优化与无符号溢出正确性 (中文版)](/technotesPdf/SPSC_Report_ZH.pdf)**
 * 📘 **[Dimension, Measure, Metric: A Unified View from Cosmic Expansion to Computer Systems (English Version)](/technotesPdf/dimension_measure_metric_unified_en.pdf)**
@@ -48,10 +48,10 @@ title: Technical Notes
 * 🟥 **[A/B Test 假设检验与统计功效：从第一性原理推导（中文版）](/technotesPdf/ABTest_Power_Analysis_V1_note_ZH.pdf)**
 * 🟦 **[MMoE and GradNorm: A First-Principles Derivation of Multi-Task Learning](/technotesPdf/MMoE_GradNorm_V1_note_EN.pdf)**
 * 🟥 **[MMoE 与 GradNorm：从第一性原理推导多任务学习](/technotesPdf/MMoE_GradNorm_V1_note_ZH.pdf)**
-* 🟦 **[Variance, LLN & the Central Limit Theorem via de Moivre's Original Path (Part-1)](/technotesPdf/clt-demoivre-part1-en.pdf)
-* 🟥 **[方差、大数定律与中心极限定理：棣莫弗原始路径的第一性原理推导（Part-1）](/technotesPdf/clt-demoivre-part1-zh.pdf)
-* 🟦 **[Variance, LLN & CLT (Part-2): Chebyshev's Inequality](/technotesPdf/chebyshev-part2-en.pdf)
-* 🟥 **[方差、大数定律与中心极限定理（Part-2）：切比雪夫不等式](/technotesPdf/chebyshev-part2-zh.pdf)
+* 🟦 **[Variance, LLN & the Central Limit Theorem via de Moivre's Original Path (Part-1)](/technotesPdf/clt-demoivre-part1-en.pdf)**
+* 🟥 **[方差、大数定律与中心极限定理：棣莫弗原始路径的第一性原理推导（Part-1）](/technotesPdf/clt-demoivre-part1-zh.pdf)**
+* 🟦 **[Variance, LLN & CLT (Part-2): Chebyshev's Inequality](/technotesPdf/chebyshev-part2-en.pdf)**
+* 🟥 **[方差、大数定律与中心极限定理（Part-2）：切比雪夫不等式](/technotesPdf/chebyshev-part2-zh.pdf)**
 * 🔵 **[The Mathematical Essence of Attention: A Self-Dialogue from QK^T to First Principles (English Version)](/technotesPdf/attention_essence_en.pdf)**
 * 🔴 **[Attention 的数学本质：从 QK^T 到第一性原理的自问自答（中文版）](/technotesPdf/attention_essence_zh.pdf)**
 * 🔵 **[AI Agent Memory Infrastructure: A System Design Manuscript (RAM Side and Periphery)](/technotesPdf/AgentMemory_SystemDesign_V1_note_EN.pdf)**
