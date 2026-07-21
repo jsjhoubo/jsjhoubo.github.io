@@ -62,5 +62,7 @@ title: Technical Notes
 * 🟥 **[机制内存学 (中文版)](/technotesPdf/MechSym_Report_ZH.pdf)**
 * 🟦 **[Zero-Overhead Abstraction (English Version)](/technotesPdf/ZeroOverhead_Report_EN.pdf)**
 * 🟥 **[零开销抽象 (中文版)](/technotesPdf/ZeroOverhead_Report_ZH.pdf)**
+* 🟦 **[Latency Engineering & Tick-to-Trade System Design (English Version)](/technotesPdf/LatencySysDesign_Detailed_EN.pdf)**
+* 🟥 **[延迟工程与 Tick-to-Trade 系统设计 (中文版)](/technotesPdf/LatencySysDesign_Detailed_ZH.pdf)**
 ---
 
