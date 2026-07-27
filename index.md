@@ -64,5 +64,7 @@ title: Technical Notes
 * 🟥 **[零开销抽象 (中文版)](/technotesPdf/ZeroOverhead_Report_ZH.pdf)**
 * 🟦 **[Latency Engineering & Tick-to-Trade System Design (English Version)](/technotesPdf/LatencySysDesign_Detailed_EN.pdf)**
 * 🟥 **[延迟工程与 Tick-to-Trade 系统设计 (中文版)](/technotesPdf/LatencySysDesign_Detailed_ZH.pdf)**
+* 🔵 **[A Spreadsheet Engine, Seven Layers Deep (English Version)](/technotesPdf/SpreadsheetEngine_Report_EN.pdf)**
+* 🔴 **[电子表格引擎七层深挖 (中文版)](/technotesPdf/SpreadsheetEngine_Report_ZH.pdf)**
 ---
 
