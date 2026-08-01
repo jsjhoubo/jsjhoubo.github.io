@@ -68,5 +68,7 @@ title: Technical Notes
 * 🔴 **[电子表格引擎七层深挖 (中文版)](/technotesPdf/SpreadsheetEngine_Report_ZH.pdf)**
 * 🔴 **[强化学习:从建模到求解 · Part 1 (中文版)](/technotesPdf/rl-learning-part1-zh.pdf)**
 * 🔵 **[RL Learning: From Modeling to Solving · Part 1 (English Version)](/technotesPdf/rl-learning-part1-en.pdf)**
+* 🔴 **[强化学习:RL 诊断案例集 · Part 2 (中文版)](/technotesPdf/RLLearning_Part2_ZH.pdf)**
+* 🔵 **[RL Learning: RL Diagnosis Casebook · Part 2 (English Version)](/technotesPdf/RLLearning_Part2_EN.pdf)**
 ---
 
