@@ -70,5 +70,7 @@ title: Technical Notes
 * 🔵 **[RL Learning: From Modeling to Solving · Part 1 (English Version)](/technotesPdf/rl-learning-part1-en.pdf)**
 * 🔴 **[强化学习:RL 诊断案例集 · Part 2 (中文版)](/technotesPdf/RLLearning_Part2_ZH.pdf)**
 * 🔵 **[RL Learning: RL Diagnosis Casebook · Part 2 (English Version)](/technotesPdf/RLLearning_Part2_EN.pdf)**
+* 🔴 **[傅里叶模式与物理态：从一根弦到不确定原理 · 04 (中文版)](/technotesPdf/04-傅里叶模式与物理态.pdf)**
+* 🔵 **[From a Vibrating String to the Uncertainty Principle · 04 (English Version)](/technotesPdf/04-fourier-modes-and-physical-states.pdf)**
 ---
 
