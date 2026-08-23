@@ -72,5 +72,7 @@ title: Technical Notes
 * 🔵 **[RL Learning: RL Diagnosis Casebook · Part 2 (English Version)](/technotesPdf/RLLearning_Part2_EN.pdf)**
 * 🔴 **[傅里叶模式与物理态：从一根弦到不确定原理 · 04 (中文版)](/technotesPdf/04-傅里叶模式与物理态.pdf)**
 * 🔵 **[From a Vibrating String to the Uncertainty Principle · 04 (English Version)](/technotesPdf/04-fourier-modes-and-physical-states.pdf)**
+* 🔵 **[FitTrack: A Social Fitness System, Designed Down to Machine Level (English Version)](/technotesPdf/FitTrack_SysDesign_Deduction_EN.pdf)**
+* 🔴 **[FitTrack 系统设计推演全记录:三子系统到机器级 (中文版)](/technotesPdf/FitTrack_SysDesign_Deduction_ZH.pdf)**
 ---
 
