@@ -72,6 +72,8 @@ title: Technical Notes
 * 🔵 **[RL Learning: RL Diagnosis Casebook · Part 2 (English Version)](/technotesPdf/RLLearning_Part2_EN.pdf)**
 * 🔴 **[强化学习:CarRacing PPO 实战 · Part 3 (中文版)](/technotesPdf/RLLearning_Part3_ZH.pdf)**
 * 🔵 **[RL Learning: CarRacing PPO in Practice · Part 3 (English Version)](/technotesPdf/RLLearning_Part3_EN.pdf)**
+* 🔴 **[强化学习:CarRacing PPO 实战 · Part 4 (中文版)](/technotesPdf/RLLearning_Part4_ZH.pdf)**
+* 🔵 **[RL Learning: CarRacing PPO in Practice · Part 4 (English Version)](/technotesPdf/RLLearning_Part4_EN.pdf)**
 * 🔴 **[傅里叶模式与物理态：从一根弦到不确定原理 · 04 (中文版)](/technotesPdf/04-傅里叶模式与物理态.pdf)**
 * 🔵 **[From a Vibrating String to the Uncertainty Principle · 04 (English Version)](/technotesPdf/04-fourier-modes-and-physical-states.pdf)**
 * 🔵 **[FitTrack: A Social Fitness System, Designed Down to Machine Level (English Version)](/technotesPdf/FitTrack_SysDesign_Deduction_EN.pdf)**
