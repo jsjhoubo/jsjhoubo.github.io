@@ -80,5 +80,7 @@ title: Technical Notes
 * 🔴 **[FitTrack 系统设计推演全记录:三子系统到机器级 (中文版)](/technotesPdf/FitTrack_SysDesign_Deduction_ZH.pdf)**
 * 🔵 **[Designing a Large-Scale Web Crawler: Architecture from First Principles (English Version)](/technotesPdf/WebCrawler_SysDesign_Deduction_EN.pdf)**
 * 🔴 **[大规模 Web Crawler 架构推演:从单机调度器到分布式分片 (中文版)](/technotesPdf/WebCrawler_SysDesign_Deduction_ZH.pdf)**
+* 🔵 **[Basic Calculator: Expression Evaluation Derived from Failed Invariants (English Version)](/technotesPdf/basic-calculator-derivation-en.pdf)**
+* 🔴 **[Basic Calculator 算法推演全记录:从三次失败的不变量到单栈解法 (中文版)](/technotesPdf/basic-calculator-derivation.pdf)**
 ---
 
