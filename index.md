@@ -82,5 +82,7 @@ title: Technical Notes
 * 🔴 **[大规模 Web Crawler 架构推演:从单机调度器到分布式分片 (中文版)](/technotesPdf/WebCrawler_SysDesign_Deduction_ZH.pdf)**
 * 🔵 **[Basic Calculator: Expression Evaluation Derived from Failed Invariants (English Version)](/technotesPdf/basic-calculator-derivation-en.pdf)**
 * 🔴 **[Basic Calculator 算法推演全记录:从三次失败的不变量到单栈解法 (中文版)](/technotesPdf/basic-calculator-derivation.pdf)**
+* 🔵 **[Designing a Notification Service: Fan-out Tiers, Push Signals and the Arithmetic That Killed Two Designs (English Version)](/technotesPdf/notification-service-design-en.pdf)**
+* 🔴 **[通知服务系统设计推演:扇出分级、推送信号,以及被数字否定的两个方案 (中文版)](/technotesPdf/notification-service-design.pdf)**
 ---
 
