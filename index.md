@@ -84,5 +84,7 @@ title: Technical Notes
 * 🔴 **[Basic Calculator 算法推演全记录:从三次失败的不变量到单栈解法 (中文版)](/technotesPdf/basic-calculator-derivation.pdf)**
 * 🔵 **[Designing a Notification Service: Fan-out Tiers, Push Signals and the Arithmetic That Killed Two Designs (English Version)](/technotesPdf/notification-service-design-en.pdf)**
 * 🔴 **[通知服务系统设计推演:扇出分级、推送信号,以及被数字否定的两个方案 (中文版)](/technotesPdf/notification-service-design.pdf)**
+* 🔵 **[Designing E-Commerce Search Ranking: Sharding, Index Updates and Three Closed Forms for Tail Latency (English Version)](/technotesPdf/search-ranking-design-en.pdf)**
+* 🔴 **[电商搜索排序系统设计推演:分片、索引更新,以及尾延迟的三个闭式结论 (中文版)](/technotesPdf/search-ranking-design.pdf)**
 ---
 
