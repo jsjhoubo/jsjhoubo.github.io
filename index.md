@@ -88,6 +88,8 @@ title: Technical Notes
 * 🔴 **[电商搜索排序系统设计推演:分片、索引更新,以及尾延迟的三个闭式结论 (中文版)](/technotesPdf/search-ranking-design.pdf)**
 * 🔵 **[Designing a Rate Limiter for PubSub: Soft Caps, Tiered Decisions and the Thundering Herd (English Version)](/technotesPdf/pubsub-rate-limiter-design-en.pdf)**
 * 🔴 **[PubSub 限流器系统设计推演:软上限、分层判定,以及羊群效应 (中文版)](/technotesPdf/pubsub-rate-limiter-design.pdf)**
+* 🔵 **[Designing Object Storage: Metadata Layers, Erasure Coding and the Arithmetic Behind 28,000 Machines (English Version)](/technotesPdf/object-storage-design-en.pdf)**
+* 🔴 **[对象存储系统设计推演:两层元数据、纠删码,以及 2.8 万台机器背后的算术 (中文版)](/technotesPdf/object-storage-design.pdf)**
 
 ---
 
