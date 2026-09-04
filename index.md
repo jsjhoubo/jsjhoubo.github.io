@@ -86,5 +86,8 @@ title: Technical Notes
 * 🔴 **[通知服务系统设计推演:扇出分级、推送信号,以及被数字否定的两个方案 (中文版)](/technotesPdf/notification-service-design.pdf)**
 * 🔵 **[Designing E-Commerce Search Ranking: Sharding, Index Updates and Three Closed Forms for Tail Latency (English Version)](/technotesPdf/search-ranking-design-en.pdf)**
 * 🔴 **[电商搜索排序系统设计推演:分片、索引更新,以及尾延迟的三个闭式结论 (中文版)](/technotesPdf/search-ranking-design.pdf)**
+* 🔵 **[Designing a Rate Limiter for PubSub: Soft Caps, Tiered Decisions and the Thundering Herd (English Version)](/technotesPdf/pubsub-rate-limiter-design-en.pdf)**
+* 🔴 **[PubSub 限流器系统设计推演:软上限、分层判定,以及羊群效应 (中文版)](/technotesPdf/pubsub-rate-limiter-design.pdf)**
+
 ---
 
