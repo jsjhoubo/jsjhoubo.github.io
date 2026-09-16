@@ -92,6 +92,7 @@ title: Technical Notes
 * 🔴 **[对象存储系统设计推演:两层元数据、纠删码,以及 2.8 万台机器背后的算术 (中文版)](/technotesPdf/object-storage-design.pdf)**
 * 🔵 **[REALM / RAG / RAP — Deriving the Retrieval Gradient, Why RAG Replaced It, and When Cross-Modal RAP Makes Sense (English Version)](/technotesPdf/realm-rag-rap-derivation-en.pdf)**
 * 🔴 **[REALM / RAG / RAP 推演:检索梯度怎么反传、为什么被 RAG 替代,以及跨模态 RAP 何时成立 (中文版)](/technotesPdf/realm-rag-rap-derivation.pdf)**
-
+* 🔵 **[Writing vector by Hand: Separating Capacity from Construction, and Exception Safety (English Version)](/technotesPdf/handwritten-vector-design-en.pdf)**
+* 🔴 **[手写 vector 推演:从容量与构造分离到异常安全(中文版)](/technotesPdf/handwritten-vector-design.pdf)**
 ---
 
