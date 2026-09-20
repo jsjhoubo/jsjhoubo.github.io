@@ -94,5 +94,7 @@ title: Technical Notes
 * 🔴 **[REALM / RAG / RAP 推演:检索梯度怎么反传、为什么被 RAG 替代,以及跨模态 RAP 何时成立 (中文版)](/technotesPdf/realm-rag-rap-derivation.pdf)**
 * 🔵 **[Writing vector by Hand: Separating Capacity from Construction, and Exception Safety (English Version)](/technotesPdf/handwritten-vector-design-en.pdf)**
 * 🔴 **[手写 vector 推演:从容量与构造分离到异常安全(中文版)](/technotesPdf/handwritten-vector-design.pdf)**
+* 🔴 **[从零训 Code LLM · Part 1:预训练到会写 C++ (中文版)](/technotesPdf/CodeLLM_Part1_ZH.pdf)**
+* 🔵 **[Training a Code LLM from Scratch · Part 1: Pretraining to Basic C++ (English Version)](/technotesPdf/CodeLLM_Part1_EN.pdf)**
 ---
 
