@@ -76,6 +76,8 @@ title: Technical Notes
 * 🔵 **[RL Learning: CarRacing PPO in Practice · Part 4 (English Version)](/technotesPdf/RLLearning_Part4_EN.pdf)**
 * 🔴 **[傅里叶模式与物理态：从一根弦到不确定原理 · 04 (中文版)](/technotesPdf/04-傅里叶模式与物理态.pdf)**
 * 🔵 **[From a Vibrating String to the Uncertainty Principle · 04 (English Version)](/technotesPdf/04-fourier-modes-and-physical-states.pdf)**
+* 🟦 **[Physics Origins 05: Toward the Schrödinger Equation, Part 1 — Vector Geometry from First Principles (English Version)](/technotesPdf/Physics_Origins_05_Schrodinger_Part1_Vector_Geometry_V1_Illustrated_EN.pdf)**
+* 🟥 **[物理溯源 05: 通向薛定谔方程 · Part 1 —— 向量几何的第一性原理（中文版）](/technotesPdf/Physics_Origins_05_Schrodinger_Part1_Vector_Geometry_V1_Illustrated_ZH.pdf)**
 * 🔵 **[FitTrack: A Social Fitness System, Designed Down to Machine Level (English Version)](/technotesPdf/FitTrack_SysDesign_Deduction_EN.pdf)**
 * 🔴 **[FitTrack 系统设计推演全记录:三子系统到机器级 (中文版)](/technotesPdf/FitTrack_SysDesign_Deduction_ZH.pdf)**
 * 🔵 **[Designing a Large-Scale Web Crawler: Architecture from First Principles (English Version)](/technotesPdf/WebCrawler_SysDesign_Deduction_EN.pdf)**
