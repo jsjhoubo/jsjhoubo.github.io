@@ -80,6 +80,8 @@ title: Technical Notes
 * 🟥 **[物理溯源 05: 通向薛定谔方程 · Part 1 —— 向量几何的第一性原理（中文版）](/technotesPdf/Physics_Origins_05_Schrodinger_Part1_Vector_Geometry_V1_Illustrated_ZH.pdf)**
 * 🟦 **[Physics Origins 05: Toward the Schrödinger Equation, Part 2 — Forcing Out Planck's Constant from Black-Body Radiation (English Version)](/technotesPdf/Physics_Origins_05_Schrodinger_Part2_Planck_Constant_V1_Illustrated_EN.pdf)**
 * 🟥 **[物理溯源 05: 通向薛定谔方程 · Part 2 —— 从黑体辐射逼出普朗克常数（中文版）](/technotesPdf/Physics_Origins_05_Schrodinger_Part2_Planck_Constant_V1_Illustrated_ZH.pdf)**
+* 🔴 **[薛定谔方程：从一根弦的波,到一个粒子的波 · 05 (中文版)](/technotesPdf/05-薛定谔方程.pdf)**
+* 🔵 **[The Schrödinger Equation: From a String's Wave to a Particle's Wave · 05 (English Version)](/technotesPdf/05-schrodinger-equation.pdf)**
 * 🔵 **[FitTrack: A Social Fitness System, Designed Down to Machine Level (English Version)](/technotesPdf/FitTrack_SysDesign_Deduction_EN.pdf)**
 * 🔴 **[FitTrack 系统设计推演全记录:三子系统到机器级 (中文版)](/technotesPdf/FitTrack_SysDesign_Deduction_ZH.pdf)**
 * 🔵 **[Designing a Large-Scale Web Crawler: Architecture from First Principles (English Version)](/technotesPdf/WebCrawler_SysDesign_Deduction_EN.pdf)**
