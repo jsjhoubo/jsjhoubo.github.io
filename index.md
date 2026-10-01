@@ -108,5 +108,7 @@ title: Technical Notes
 * 🔵 **[Training a Code LLM from Scratch · Part 3: Distributed Training & Long Context (English)](/technotesPdf/CodeLLM_Part3_EN.pdf)**
 * 🔴 **[从零训 Code LLM · Part 4:RL 训练代码模型 (中文版)](/technotesPdf/CodeLLM_Part4_ZH.pdf)**
 * 🔵 **[Training a Code LLM from Scratch · Part 4: RL for Code Models (English)](/technotesPdf/CodeLLM_Part4_EN.pdf)**
+* 🔴 **[Lux AI S3 推导 · Part 1:问题结构与博弈分层 (中文版)](/technotesPdf/Lux_S3_Part1_ZH.pdf)**
+* 🔵 **[Lux AI S3 · Part 1: Problem Structure & Game-Theoretic Layering (English)](/technotesPdf/Lux_S3_Part1_EN.pdf)**
 ---
 
