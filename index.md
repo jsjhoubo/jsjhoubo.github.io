@@ -110,5 +110,7 @@ title: Technical Notes
 * 🔵 **[Training a Code LLM from Scratch · Part 4: RL for Code Models (English)](/technotesPdf/CodeLLM_Part4_EN.pdf)**
 * 🔴 **[Lux AI S3 推导 · Part 1:问题结构与博弈分层 (中文版)](/technotesPdf/Lux_S3_Part1_ZH.pdf)**
 * 🔵 **[Lux AI S3 · Part 1: Problem Structure & Game-Theoretic Layering (English)](/technotesPdf/Lux_S3_Part1_EN.pdf)**
+* 🟦 **[ARC-AGI-3 Part 1: Formalization and Survey of Methods, 2nd ed. (English Version)](/technotesPdf/ARC_AGI_3_Part1_Formalization_And_Methods_V2_note_EN.pdf)**
+* 🟥 **[ARC-AGI-3 Part 1:形式化与方法综述·第二版(中文版)](/technotesPdf/ARC_AGI_3_Part1_Formalization_And_Methods_V2_note_ZH.pdf)**
 ---
 
