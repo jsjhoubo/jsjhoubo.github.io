@@ -112,6 +112,8 @@ title: Technical Notes
 * 🟥 **[从零训 Code LLM · Part 5：转向 Gemma 4 Developer Agent——把评测环境搭起来](https://jsjhoubo.github.io/technotesPdf/CodeLLM_Part5_Gemma4_Agent_Env_V1_note_ZH.pdf)**
 * 🔴 **[Lux AI S3 推导 · Part 1:问题结构与博弈分层 (中文版)](/technotesPdf/Lux_S3_Part1_ZH.pdf)**
 * 🔵 **[Lux AI S3 · Part 1: Problem Structure & Game-Theoretic Layering (English)](/technotesPdf/Lux_S3_Part1_EN.pdf)**
+* 🔴 **[Lux AI S3 · Part 2:建模与求解方法 — 从问题结构到匈牙利分配 (中文版)](/technotesPdf/Lux_S3_Part2_ZH.pdf)**
+* 🔵 **[Lux AI S3 · Part 2: Modeling and Solution Methods (English)](/technotesPdf/Lux_S3_Part2_EN.pdf)**
 * 🟦 **[ARC-AGI-3 Part 1: Formalization and Survey of Methods, 2nd ed. (English Version)](/technotesPdf/ARC_AGI_3_Part1_Formalization_And_Methods_V2_note_EN.pdf)**
 * 🟥 **[ARC-AGI-3 Part 1:形式化与方法综述·第二版(中文版)](/technotesPdf/ARC_AGI_3_Part1_Formalization_And_Methods_V2_note_ZH.pdf)**
 ---
