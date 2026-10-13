@@ -118,5 +118,7 @@ title: Technical Notes
 * 🟥 **[ARC-AGI-3 Part 1:形式化与方法综述·第二版(中文版)](/technotesPdf/ARC_AGI_3_Part1_Formalization_And_Methods_V2_note_ZH.pdf)**
 * 🟦 **[ARC-AGI-3 Side Story: From Linear Attention to Gated DeltaNet (English Version)](/technotesPdf/GDN_Derivation_V1_note_EN.pdf)**
 * 🟥 **[ARC-AGI-3 番外篇：从线性注意力到 Gated DeltaNet（中文版）](/technotesPdf/GDN_Derivation_V1_note_ZH.pdf)**
+* 🟦 **[ARC-AGI-3 Part 2: Engineering and Debugging Log (English Version)](/technotesPdf/ARC_AGI_3_Part2_Engineering_Debug_V1_note_EN.pdf)**
+* 🟥 **[ARC-AGI-3 Part 2：工程实现与 debug 记录（中文版）](/technotesPdf/ARC_AGI_3_Part2_Engineering_Debug_V1_note_ZH.pdf)**
 ---
 
