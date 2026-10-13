@@ -110,6 +110,8 @@ title: Technical Notes
 * 🔵 **[Training a Code LLM from Scratch · Part 4: RL for Code Models (English)](/technotesPdf/CodeLLM_Part4_EN.pdf)**
 * 🟦 **[Training a Code LLM from Scratch · Part 5: Pivoting to the Gemma 4 Developer Agent — Standing Up the Eval Environment](https://jsjhoubo.github.io/technotesPdf/CodeLLM_Part5_Gemma4_Agent_Env_V1_note_EN.pdf)**
 * 🟥 **[从零训 Code LLM · Part 5：转向 Gemma 4 Developer Agent——把评测环境搭起来](https://jsjhoubo.github.io/technotesPdf/CodeLLM_Part5_Gemma4_Agent_Env_V1_note_ZH.pdf)**
+* 🟦 **[Training a Code LLM from Scratch · Part 6: Squeezing the Scaffold — From 51/129 to a First Kaggle Score](https://jsjhoubo.github.io/technotesPdf/CodeLLM_Part6_Gemma4_Scaffold_Engineering_V1_note_EN.pdf)**
+* 🟥 **[从零训 Code LLM · Part 6：榨干 scaffold——从 51/129 到第一次 Kaggle 提交](https://jsjhoubo.github.io/technotesPdf/CodeLLM_Part6_Gemma4_Scaffold_Engineering_V1_note_ZH.pdf)**
 * 🔴 **[Lux AI S3 推导 · Part 1:问题结构与博弈分层 (中文版)](/technotesPdf/Lux_S3_Part1_ZH.pdf)**
 * 🔵 **[Lux AI S3 · Part 1: Problem Structure & Game-Theoretic Layering (English)](/technotesPdf/Lux_S3_Part1_EN.pdf)**
 * 🔴 **[Lux AI S3 · Part 2:建模与求解方法 — 从问题结构到匈牙利分配 (中文版)](/technotesPdf/Lux_S3_Part2_ZH.pdf)**
