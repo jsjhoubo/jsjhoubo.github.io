@@ -6,6 +6,9 @@ title: Technical Notes
 
 ### 📚 技术报告 (PDF 在线阅读)
 
+* 🔴 **[LC 621 Task Scheduler：从构造、对齐到最优公式——完整推导与 Debug 全记录（中文版）](/technotesPdf/LC621_Task_Scheduler_Proof_Journey_Cited_V8.pdf)**
+* 🔵 **[LC 621 Task Scheduler: A Proof Journey — Construction, Alignment, Invariants and Debug Notes (English Version)](/technotesPdf/LC621_Task_Scheduler_Proof_Journey_Cited_V8_EN.pdf)**
+
 * 📘 **[The Geometric and Algebraic Synthesis of the Simplex Method (English Version)](/technotesPdf/the_grand_synthesis_treatise_en.pdf)**
 * 📙 **[单纯形法的几何与代数大一统 (中文版)](/technotesPdf/the_grand_synthesis_treatise_zh.pdf)**
 * 📘 **[Budget Pacing: From Single-Advertiser Closed Form to Market Equilibrium (English Version)](/technotesPdf/pacing_theory_EN.pdf)**
