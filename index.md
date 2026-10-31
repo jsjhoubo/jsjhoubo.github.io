@@ -6,6 +6,9 @@ title: Technical Notes
 
 ### 📚 技术报告 (PDF 在线阅读)
 
+* 🔵 **[Deriving Classic Recommendation Models and Losses · Part 2: Historical States, Interest Specialization and Ranking Gradients (English Version)](/technotesPdf/recommendation-models-and-loss-derivation-part-2-en.pdf)**
+* 🔴 **[推荐经典模型和 Loss 推演 · Part 2：历史状态、兴趣分工与排序梯度——完整往返推演（中文版）](/technotesPdf/recommendation-models-and-loss-derivation-part-2-zh.pdf)**
+
 * 🔵 **[Deriving Classic Recommendation Models and Losses · Part 1: From Two Towers to FM, DCN, DLRM and DIN (English Version)](/technotesPdf/recommendation-models-and-loss-derivation-part-1-en.pdf)**
 * 🔴 **[推荐经典模型和 Loss 推演 · Part 1：从双塔到 FM、DCN、DLRM 与 DIN（中文版）](/technotesPdf/recommendation-models-and-loss-derivation-part-1-zh.pdf)**
 
