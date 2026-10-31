@@ -6,6 +6,9 @@ title: Technical Notes
 
 ### 📚 技术报告 (PDF 在线阅读)
 
+* 🔵 **[Deriving Classic Recommendation Models and Losses · Part 1: From Two Towers to FM, DCN, DLRM and DIN (English Version)](/technotesPdf/recommendation-models-and-loss-derivation-part-1-en.pdf)**
+* 🔴 **[推荐经典模型和 Loss 推演 · Part 1：从双塔到 FM、DCN、DLRM 与 DIN（中文版）](/technotesPdf/recommendation-models-and-loss-derivation-part-1-zh.pdf)**
+
 * 🔴 **[LC 621 Task Scheduler：从构造、对齐到最优公式——完整推导与 Debug 全记录（中文版）](/technotesPdf/LC621_Task_Scheduler_Proof_Journey_Cited_V8.pdf)**
 * 🔵 **[LC 621 Task Scheduler: A Proof Journey — Construction, Alignment, Invariants and Debug Notes (English Version)](/technotesPdf/LC621_Task_Scheduler_Proof_Journey_Cited_V8_EN.pdf)**
 
