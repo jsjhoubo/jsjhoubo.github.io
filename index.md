@@ -6,6 +6,7 @@ title: Technical Notes
 
 ### 📚 技术报告 (PDF 在线阅读)
 
+* 🔵 **[Attention and Emergent Intelligence · Part 1: MIT Weight Editing, Astra Experiments, and Induction-Head Derivations (20-page English Edition)](/technotesPdf/Attention_Emergence_Part1_20pages_EN.pdf)**
 * 🔴 **[Attention 智能涌现推演 · Part 1：MIT Weight Editing、Astra 实验与 Induction Head 的完整往返推导（20 页）](/technotesPdf/Attention_Emergence_Part1_20pages.pdf)**
 
 * 🔵 **[Deriving Classic Recommendation Models and Losses · Part 2: Historical States, Interest Specialization and Ranking Gradients (English Version)](/technotesPdf/recommendation-models-and-loss-derivation-part-2-en.pdf)**
