@@ -7,6 +7,7 @@ title: Technical Notes
 ### 📚 技术报告 (PDF 在线阅读)
 
 * 🔵 **[From Orthogonal Projection to Stable Gradients: Linear Deconfounding, Graph Message Passing, and Low-Precision Softmax (English)](/technotesPdf/From_Orthogonal_Projection_to_Stable_Gradients_EN.pdf)**
+* 🔴 **[从正交投影到稳定梯度：线性去偏、图消息传递与低精度 Softmax（中文版）](/technotesPdf/From_Orthogonal_Projection_to_Stable_Gradients_zh.pdf)**
 
 * 🔵 **[Attention and Emergent Intelligence · Part 1: MIT Weight Editing, Astra Experiments, and Induction-Head Derivations (20-page English Edition)](/technotesPdf/Attention_Emergence_Part1_20pages_EN.pdf)**
 * 🔴 **[Attention 智能涌现推演 · Part 1：MIT Weight Editing、Astra 实验与 Induction Head 的完整往返推导（20 页）](/technotesPdf/Attention_Emergence_Part1_20pages.pdf)**
