@@ -65,6 +65,8 @@ title: Technical Notes
 * 🟥 **[MMoE 与 GradNorm：从第一性原理推导多任务学习](/technotesPdf/MMoE_GradNorm_V1_note_ZH.pdf)**
 * 🟦 **[Load Balancing for MoE Routers: From Top-k to Quantile Bias and EMA](/technotesPdf/moe-routing-load-balancing-en.pdf)**
 * 🟥 **[MoE 路由器负载均衡：从 Top-k 到分位数 Bias 与 EMA（中文版）](/technotesPdf/moe-routing-load-balancing-zh.pdf)**
+* 🟦 **[LoRA and DoRA: From Low-Rank Subspaces to Weight Magnitudes (English Version)](/technotesPdf/lora-dora-en.pdf)**
+* 🟥 **[LoRA 与 DoRA：从低秩子空间到权重尺度（中文版）](/technotesPdf/lora-dora-zh.pdf)**
 * 🟦 **[Variance, LLN & the Central Limit Theorem via de Moivre's Original Path (Part-1)](/technotesPdf/clt-demoivre-part1-en.pdf)**
 * 🟥 **[方差、大数定律与中心极限定理：棣莫弗原始路径的第一性原理推导（Part-1）](/technotesPdf/clt-demoivre-part1-zh.pdf)**
 * 🟦 **[Variance, LLN & CLT (Part-2): Chebyshev's Inequality](/technotesPdf/chebyshev-part2-en.pdf)**
