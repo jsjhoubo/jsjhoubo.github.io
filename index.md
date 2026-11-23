@@ -6,6 +6,8 @@ title: Technical Notes
 
 ### 📚 技术报告 (PDF 在线阅读)
 
+* 🔵 **[4-bit Weight Quantization: From Dynamic Programming to Greedy Search and Nested Bisection (English Version)](/technotesPdf/int4_quantization_dp_greedy_en.pdf)**
+
 * 🔵 **[From Orthogonal Projection to Stable Gradients: Linear Deconfounding, Graph Message Passing, and Low-Precision Softmax (English, full translation)](/technotesPdf/From_Orthogonal_Projection_to_Stable_Gradients_EN.pdf)**
 * 🔴 **[从正交投影到稳定梯度：线性去偏、图消息传递与低精度 Softmax（中文版）](/technotesPdf/From_Orthogonal_Projection_to_Stable_Gradients_zh.pdf)**
 
