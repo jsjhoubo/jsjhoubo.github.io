@@ -6,6 +6,9 @@ title: Technical Notes
 
 ### 📚 技术报告 (PDF 在线阅读)
 
+* 🔵 **[From Joint GMMs to Mixture Density Networks: A Back-and-Forth Derivation (English Version)](/technotesPdf/gmr_mdn_dialogue_en.pdf)**
+* 🔴 **[从联合 GMM 到条件密度网络：GMR 与 MDN 的往返推导（中文版）](/technotesPdf/gmr_mdn_dialogue_zh.pdf)**
+
 * 🔵 **[4-bit Weight Quantization: From Dynamic Programming to Greedy Search and Nested Bisection (English Version)](/technotesPdf/int4_quantization_dp_greedy_en.pdf)**
 * 🔴 **[4-bit 权重量化：从动态规划精确分桶到贪心与双层二分（中文版）](/technotesPdf/int4_quantization_dp_greedy_zh.pdf)**
 
